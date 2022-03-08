@@ -22,7 +22,7 @@ def residual_block(x, num_filters):
     x = Conv2D(num_filters, (3, 3), padding="same")(x)
     x = BatchNormalization()(x)
 
-    s = Conv2D(num_filters, (1, 1), padding="same")(x)
+    s = Conv2D(num_filters, (1, 1), padding="same")(x_init)
     s = BatchNormalization()(x)
 
     x = Add()([x, s])
