@@ -21,11 +21,14 @@ The architecture of the NanoNet follows an encoder-decoder approach as shown in 
 ## Citation
 Please cite our paper if you find the work useful: 
 <pre>
-@proceedings{jha2021nanonet,
-  title={NanoNet: Real-Time Polyp Segmentation in Endoscopy},
-  author={Jha, Debesh and Tomar, Nikhil Kumar and Ali, Sharib and Riegler, Michael A and Johansen, H{\aa}vard D and Johansen, Dag and Halvorsen, P{\aa}l},
-  booktitle={IEEE Computer Based Multimedia System},
-  publisher={IEEE}
+@inproceedings{jha2021nanonet,
+  title={Nanonet: Real-time polyp segmentation in video capsule endoscopy and colonoscopy},
+  author={Jha, Debesh and Tomar, Nikhil Kumar and Ali, Sharib and Riegler, Michael A and Johansen, H{\aa}vard D and Johansen, Dag and de Lange, Thomas and Halvorsen, P{\aa}l},
+  booktitle={Proceedings of the IEEE 34th International Symposium on Computer-Based Medical Systems (CBMS)},
+  pages={37--43},
+  year={2021},
+  organization={IEEE}
+}
 }
 </pre>
 
