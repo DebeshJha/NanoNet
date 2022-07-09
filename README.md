@@ -12,6 +12,8 @@ The architecture of the NanoNet follows an encoder-decoder approach as shown in 
 ## Links for the dataset:
 [Kvasir-SEG] (https://datasets.simula.no/kvasir-seg/)
 
+<b>train.txt</b> and <b>val.txt</b> are present above and are required for experimentataion, and result comparisons.  
+
 [KvasirCapsule-SEG] (https://datasets.simula.no/kvasir-capsule-seg/)
 
 [medico 2020] (https://drive.google.com/file/d/1uP2W2g0iCCS3T6Cf7TPmNdSX4gayOrv2/view)
