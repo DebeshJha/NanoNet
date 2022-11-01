@@ -4,6 +4,9 @@ The architecture of the NanoNet follows an encoder-decoder approach as shown in 
 
 [NanoNet: Real-Time Polyp Segmentation in Endoscopy](nanonet.pdf).
 
+KvasirCapsule-SEG dataset is officially available at 
+https://datasets.simula.no/kvasir-capsule-seg/
+
 
 ## Proposed architecture
 
@@ -45,4 +48,4 @@ Please cite our paper if you find the work useful:
 </pre>
 
 ## Contact
-Please contact debesh@simula.no, nikhilroxtomar@gmail.com, sharib.ali@eng.ox.ac.uk, michael@simula.no for any further questions.
+Please contact debesh.jha@northwestern.edu for any further questions.
