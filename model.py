@@ -23,7 +23,7 @@ def residual_block(x, num_filters):
     x = BatchNormalization()(x)
 
     s = Conv2D(num_filters, (1, 1), padding="same")(x_init)
-    s = BatchNormalization()(x)
+    s = BatchNormalization()(s)
 
     x = Add()([x, s])
     x = Activation("relu")(x)
