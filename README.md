@@ -8,28 +8,35 @@ KvasirCapsule-SEG dataset is officially available at
 https://datasets.simula.no/kvasir-capsule-seg/
 
 ## Proposed architecture
+<p align="center">
 <img src="figures/nanonet.png">
+</p>
 
-## Links for the dataset:
-[Kvasir-SEG] (https://datasets.simula.no/kvasir-seg/)
+## Dataset links:
 
-<b>train.txt</b> and <b>val.txt</b> are present above and are required for experimentataion, and result comparisons.  
+[Kvasir-SEG](https://datasets.simula.no/kvasir-seg/)
 
-[KvasirCapsule-SEG] (https://datasets.simula.no/kvasir-capsule-seg/)
+<b>train.txt</b> and <b>val.txt</b> are present above and are required for experimentation and result comparisons.  
 
-[medico 2020] (https://drive.google.com/file/d/1uP2W2g0iCCS3T6Cf7TPmNdSX4gayOrv2/view)
+[KvasirCapsule-SEG](https://datasets.simula.no/kvasir-capsule-seg/)
 
-[Endotect 2020] (https://endotect.com/)
+[medico 2020](https://drive.google.com/file/d/1uP2W2g0iCCS3T6Cf7TPmNdSX4gayOrv2/view)
 
-[Kvasir-Instrument] (https://datasets.simula.no/kvasir-instrument/)
+[Endotect 2020](https://endotect.com/)
+
+[Kvasir-Instrument](https://datasets.simula.no/kvasir-instrument/)
 
 ## Results
 
 ### Quantitative Results
+<p align="center">
 <img src="figures/quantative.png">
+</p>
 
 ### Qualitative Results
+<p align="center">
 <img src="figures/qualitative.png">
+</p>
 
 ## Citation
 Please cite our paper if you find the work useful: 
